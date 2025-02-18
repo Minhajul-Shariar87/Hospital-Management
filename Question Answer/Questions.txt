@@ -1,0 +1,25 @@
+1) Display the table12 information
+
+2) Display lower case of doctor name in table4
+
+3) Display Average salary of f_transaction intable15
+
+4) Display the doctor name,appointment name,date,time of patient sanjida 
+
+5) Display the mh_history_id,mh_mc, of patient arghya
+
+6) Display the bill which is greater than average of tretament cost
+
+7) Display the bill which is less than sum of tretament cost
+
+8) Display the patient condition,appointment date,appointment time.
+
+9) Display the patient condition,appointment date,appointment time and if there is any patient serial number is not present display 'NO PATIENT'
+
+10) Display the treatment cost between f_transaction and l_transaction
+
+11) Display table12 of the doctor information  if d_bonus is equal to patient serial number(p_sn)
+
+12) Create a table of patient information and name as 'PATIENT INFORMATION'
+
+13) Create a treatment table of avg t_cost,sum t_cost, min t_cost and max t_cost
