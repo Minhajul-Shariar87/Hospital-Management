@@ -13,8 +13,8 @@ The Hospital Management System is a centralized database solution designed to st
 5. 📝 Data Manipulation Language: [DML](https://github.com/Minhajul-Shariar87/Hospital-Management/tree/main/DML)
 6. 🔌 Database Connection Using Java: [DB Connection](https://github.com/Minhajul-Shariar87/Hospital-Management/tree/main/DB%20CONNECTION)
 
-## Contribution
-1. [Arghya Das](https://www.facebook.com/Arghya.Das.520562)
-2. [Anika Akter Ayna](https://www.facebook.com/anikakterayna)
-3. [MD.Minhajul Shariar Zaman Alif](https://www.facebook.com/minhajul.alif.1/)
-4. [Tasfia Maisha](https://www.facebook.com/tasfia.maisha.773681)
+## 👥 Contribution
+1. 👤 [Arghya Das](https://www.facebook.com/Arghya.Das.520562)
+2. 👤 [Anika Akter Ayna](https://www.facebook.com/anikakterayna)
+3. 👤 [MD.Minhajul Shariar Zaman Alif](https://www.facebook.com/minhajul.alif.1/)
+4. 👤 [Tasfia Maisha](https://www.facebook.com/tasfia.maisha.773681)
